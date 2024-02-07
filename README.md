@@ -1,2 +1,1 @@
-# Python
 # ace-clan
